@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+Sitemap: https://www.51mrdasai.cloud/sitemap.xml
